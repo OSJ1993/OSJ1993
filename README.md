@@ -1,3 +1,16 @@
+ <div>
+  
+   <!-- 등급표 표출  -->
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongseoJ&show_icons=true&theme=codeSTACKr&count_private=true) 
+ </div>
+ <div>   
+  
+   <!-- 사용언어 -->
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongseoJ&layout=compact&theme=codeSTACKr&langs_count=6)
+ </div>
+ 
+ </div>
+
 ### Hi there 👋
 
 <!--
